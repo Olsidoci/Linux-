@@ -31,6 +31,7 @@ chmod o-w project_k.txt
 ls -la project_k.txt
 
 🕵️‍♂️ Secure Hidden File .project_x.txt
+
 chmod u-w .project_x.txt
 chmod g-w .project_x.txt
 chmod g+r .project_x.txt
